@@ -70,9 +70,9 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          <mark>AWS</mark>  <mark>Terraform</mark>  <mark>Jenkins</mark>  <mark>git</mark>  <mark>CI/CD</mark>  
-          <mark>Python</mark>  <mark>Shell Scripting</mark>  <mark>Groovy</mark>  <mark>Kubernetes</mark>  <mark>Docker Containerisation</mark>    
-          <mark>VM</mark>  <mark>Oracle Virtual box</mark>  <mark>Agile</mark>  <mark>Scrum</mark>  
+          <mark>AWS</mark>      <mark>Terraform</mark>      <mark>Jenkins</mark>      <mark>git</mark>      <mark>CI/CD</mark>  
+          <mark>Python</mark>     <mark>Shell Scripting</mark>     <mark>Groovy</mark>      <mark>Kubernetes</mark>     <mark>Docker Containerisation</mark>    
+          <mark>VM</mark>     <mark>Oracle Virtual box</mark>      <mark>Agile</mark>      <mark>Scrum</mark>  
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -80,7 +80,7 @@ content:
       - layout: left
         title: Microfocus(ex HPE)
         link: https://www.microfocus.com/en-us/home
-        # link_text: www.microfocus.com
+        link_text: www.microfocus.com
         sub_title: DevOps Engineer
         caption: July 2019 - Jan 21
         quote: >
@@ -90,7 +90,7 @@ content:
       - layout: left
         title: Microfocus(ex HPE)
         link: https://www.microfocus.com/en-us/home
-        # link_text: www.microfocus.com
+        link_text: www.microfocus.com
         sub_title: DevOps Engineer
         caption: July 2019 - Jan 21
         quote: >
