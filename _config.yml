@@ -165,16 +165,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Rajasthan Technical University
-        caption: 2011 - 2015
-        sub_title: Electronics Instrumentation and Control Engineering
-        quote: >
-          RTU was established in 2006 by the Government of Rajasthan to enhance the technical education in the state, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in India.
         description: | # this will include new lines to allow paragraphs
-          During my time at RTU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+          | Course | Institute | University/ Board | Marks (%) | Year |
+          |------|-------|-------|---|---|
+          | B.Tech(Electronics Instrumentation andControl) | Govt. Engineering College, Ajmer Rajasthan Technical University | 69.10 | 2015 |
+          | Higher Secondary Certificate | D.A.V. Sr. Sec. School, Ajmer Board Of Secondary Education, Rajasthan | 81.55 | 2010 |
+          | Secondary SchoolCertificate | Vivekananda Adarsh Sr. Sec.School, Baniyana | Board Of SecondaryEducation, Rajasthan | 79.33 | 2008 |
+          
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
