@@ -162,16 +162,16 @@ content:
           ▪ CR(Change Request)/Bug logging and Test result management in ALM(Application lifecycle management)
  
   - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
-      - layout: left
         description: | # this will include new lines to allow paragraphs
           | Course | Institute | University/ Board | Marks (%) | Year |
           |------|-------|-------|---|---|
-          | B.Tech(Electronics Instrumentation andControl) | Govt. Engineering College, Ajmer Rajasthan Technical University | 69.10 | 2015 |
-          | Higher Secondary Certificate | D.A.V. Sr. Sec. School, Ajmer Board Of Secondary Education, Rajasthan | 81.55 | 2010 |
+          | B.Tech(Electronics Instrumentation andControl) | Govt. Engineering College, Ajmer | Rajasthan Technical University | 69.10 | 2015 |
+          | Higher Secondary Certificate | D.A.V. Sr. Sec. School, Ajmer | Board Of Secondary Education, Rajasthan | 81.55 | 2010 |
           | Secondary SchoolCertificate | Vivekananda Adarsh Sr. Sec.School, Baniyana | Board Of SecondaryEducation, Rajasthan | 79.33 | 2008 |
-          
+
+
           
   - title: A Little More About Me
     layout: text
