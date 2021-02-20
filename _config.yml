@@ -192,7 +192,7 @@ content:
       - Social Networking
 
       Here is another cool guy Mr. Mani  
-      ![Mani](/myData/images/Mani.jpg "Mani")
+      ![mani](/myData/images/Mani.jpg "mani")
 
 # Footer
 footer_show_references: true
