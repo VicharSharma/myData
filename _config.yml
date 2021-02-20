@@ -162,7 +162,7 @@ content:
           ▪ CR(Change Request)/Bug logging and Test result management in ALM(Application lifecycle management)
  
   - title: Education # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
         description: | # this will include new lines to allow paragraphs
           | Course | Institute | University/ Board | Marks (%) | Year |
