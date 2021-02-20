@@ -164,14 +164,23 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        caption: 2011 - 2015
+        sub_title: Rajasthan Technical University        
         description: | # this will include new lines to allow paragraphs
-          | Course | Institute | University/ Board | Marks (%) | Year |
-          |------|-------|-------|---|---|
-          | B.Tech(Electronics Instrumentation andControl) | Govt. Engineering College, Ajmer | Rajasthan Technical University | 69.10 | 2015 |
-          | Higher Secondary Certificate | D.A.V. Sr. Sec. School, Ajmer | Board Of Secondary Education, Rajasthan | 81.55 | 2010 |
-          | Secondary SchoolCertificate | Vivekananda Adarsh Sr. Sec.School, Baniyana | Board Of SecondaryEducation, Rajasthan | 79.33 | 2008 |
-
-
+            | B.Tech(Electronics Instrumentation and Control) | Govt. Engineering College, Ajmer | 69.10% |
+            
+      - layout: left
+        caption: 2009 - 2010
+        sub_title: Board Of Secondary Education, Rajasthan        
+        description: | # this will include new lines to allow paragraphs
+            | Higher Secondary Certificate | D.A.V. Sr. Sec. School, Ajmer | 81.55 |            
+            
+      - layout: left
+        caption: 2007 - 2008
+        sub_title: Board Of Secondary Education, Rajasthan        
+        description: | # this will include new lines to allow paragraphs
+            | Secondary SchoolCertificate | Vivekananda Adarsh Sr. Sec.School, Baniyana | 79.33 |
           
   - title: A Little More About Me
     layout: text
