@@ -86,16 +86,16 @@ content:
         quote: >
           Solving the build and Deployment problems by being that *DevOps Guy*.
         description: | # this will include new lines to allow paragraphs
-           | ▪ Managed 300 plus Jenkins jobs for a product with nightly runs.
-           | ▪ Created awesome dashboard to see the status of all Jenkins jobs on one page.
-           | ▪ Configured Sonar code coverage for java ,go repos and
-           | ▪ STAT scan configuration.
-           | ▪ Dockerized builds and Jenkinfile optimization.
-           | ▪ CI-CD implementation , with git, build job with every commit and pull requests builds,webhooks.
-           | ▪ Wrote pipeline scripts in groovy.
-           | ▪ Jenkins administration and complete ownership for DevOps for two products R&D teams.
-           | ▪ Worked on migration from Electric commander to Jenkins in order to save license cost.
-           | ▪ Build jobs using Kubernetes pods.
+          ▪ Managed 300 plus Jenkins jobs for a product with nightly runs.|
+          ▪ Created awesome dashboard to see the status of all Jenkins jobs on one page.|
+          ▪ Configured Sonar code coverage for java ,go repos and|
+          ▪ STAT scan configuration.|
+          ▪ Dockerized builds and Jenkinfile optimization.|
+          ▪ CI-CD implementation , with git, build job with every commit and pull requests builds,webhooks.|
+          ▪ Wrote pipeline scripts in groovy.|
+          ▪ Jenkins administration and complete ownership for DevOps for two products R&D teams.|
+          ▪ Worked on migration from Electric commander to Jenkins in order to save license cost.|
+          ▪ Build jobs using Kubernetes pods.
 
       - layout: left
         title: Microfocus(ex HPE)
