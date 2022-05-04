@@ -12,7 +12,7 @@ email: v4.charusharma@hotmail.com
 website: www.github.com/vicharsharma
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: v4sharma
@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Vichar and I'm a senior DevOps Engineer. As well as DevOps systems I also have experience in automation testing. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Vichar and I'm a senior DevOps Engineer at Juniper Networks. Along with DevOps systems I also have experience in automation testing. I have worked at a number of companies gaining technical expertise, teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>CICD</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Skills # Title for the section
@@ -70,15 +70,54 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          <mark>AWS</mark>      <mark>Terraform</mark>      <mark>Jenkins</mark>      <mark>git</mark>      <mark>CI/CD</mark>
+          <mark>AWS/GCP</mark>      <mark>Terraform</mark>      <mark>Kubernetes</mark>     <mark>Docker Containerisation</mark>
           
-          <mark>Python</mark>     <mark>Shell Scripting</mark>     <mark>Groovy</mark>      <mark>Kubernetes</mark>     <mark>Docker Containerisation</mark> 
+          <mark>Groovy Scripting</mark>      <mark>Shell Scripting</mark>     <mark>Python</mark>     <mark>Jenkins</mark>      <mark>git</mark>      <mark>CI/CD</mark> 
           
           <mark>VM</mark>     <mark>Oracle Virtual box</mark>      <mark>Agile</mark>      <mark>Scrum</mark>  
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: Juniper Networks
+        link: https://www.juniper.net/
+        link_text: www.juniper.net
+        sub_title: Software Engineer 3
+        caption: Apr 2022 - Present
+        quote: >
+          Part of Build and release team of Junos OS.
+        description: | # this will include new lines to allow paragraphs
+          ▪ Manage build workflows of various components of Junos OS.
+
+          ▪ Development of various shared library features to enhance the CICD.
+
+      - layout: left
+        title: Cognizant
+        link: https://www.cognizant.com/in/en
+        link_text: www.cognizant.com
+        sub_title: Infra Dev Specialist
+        caption: Feb 2021 - Mar 21
+        quote: >
+          Standard CICD by using shared libraries in groovy.
+        description: | # this will include new lines to allow paragraphs
+          ▪ Shared pipelines development and implementation throughout organization.
+
+          ▪ Development of various technologies builders and deployers as shared library so app teams can benefit and follow standard approach.
+
+          ▪ Manage CI/CD support for various teams working across globe for Corelogic.
+
+          ▪ Jenkins master onboarding / ecosystem onboarding for various technologies, based on JIRA tickets.
+
+          ▪ Deployment to cloud GCP and on premises infrastructure.
+
+          ▪ Developed Terraform scripts for Infrastructure as a code(IAAC).
+
+          ▪ Developed Jenkins scripts for various automation, such as bulk job creation/modification.
+
+          ▪ Familiar with Hashicorp vault.
+          
+
       - layout: left
         title: Microfocus(ex HPE)
         link: https://www.microfocus.com/en-us/home
