@@ -34,9 +34,9 @@ additional_links:
 - title: VicharSharma
   icon: fas fa-globe
   url: https://vicharsharma.github.io/myData/
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+- title: Download Resume
+  icon: fa-solid fa-download
+  url: https://github.com/VicharSharma/myData/raw/master/assets/VicharSharma.pdf
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
