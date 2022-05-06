@@ -31,12 +31,12 @@ youtube_username: vicharsharma
 
 # Additional icon links
 additional_links:
+- title: Download Resume
+  icon: fas fa-download
+  url: https://github.com/VicharSharma/myData/raw/master/assets/VicharSharma.pdf
 - title: VicharSharma
   icon: fas fa-globe
   url: https://vicharsharma.github.io/myData/
-- title: Download Resume
-  icon: fa-solid fa-download
-  url: https://github.com/VicharSharma/myData/raw/master/assets/VicharSharma.pdf
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
